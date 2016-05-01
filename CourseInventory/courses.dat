@@ -1,0 +1,81 @@
+DBAS14444 ; Structured Database Modelling ; 3 ; DATABASE
+DBAS17370 ; Database Implementation and Management ; 3 ; DATABASE
+DBAS27198 ; Database Design and Implementation ; 4 ; DATABASE
+DBAS32100 ; RDMS Application Development ; 3 ; DATABASE
+DBAS35738 ; Database Security ; 3 ; DATABASE
+DBAS36206 ; Database Administration and Security ; 3 ; DATABASE
+INFO10111 ; Systems Loss Prevention Methodologies ; 3 ; INFORMATION
+INFO10229 ; Mobile Computing ; 3 ; INFORMATION
+INFO16029 ; Problem Solving/Programming Logic ; 3 ; INFORMATION
+INFO16206 ; Scripting and Web Languages ; 3 ; INFORMATION
+INFO16529 ; Security Threats and Risk Assessment ; 3 ; INFORMATION
+INFO20172 ; IT Project Management using PMP ; 3 ; INFORMATION
+INFO24178 ; Computer and Network Security ; 3 ; INFORMATION
+INFO30004 ; Information Systems Security Auditing ; 3 ; INFORMATION
+INFO33921 ; Intro to Cryptology ; 4 ; INFORMATION
+INFO34049 ; Capstone Project Research Prep ; 3 ; INFORMATION
+INFO36206 ; ISS Graduation Project (Phase 1) ; 3 ; INFORMATION
+INFO37721 ; Information Systems Forensics and Investigation ; 3 ; INFORMATION
+INFO39014 ; Capstone Project ; 6 ; INFORMATION
+INFO39207 ; Adv. Info Systems and Electronic Discovery ; 3 ; INFORMATION
+INFO40025 ; Information Age Ethics ; 3 ; INFORMATION
+INFO40587 ; Ethical Hacking ; 4 ; INFORMATION
+INFO43921 ; Malicious Code: Design and Defense ; 4 ; INFORMATION
+INFO46206 ; Information Systems Intrusion Detection and Prevention ; 3 ; INFORMATION
+INFO46693 ; Secure E-Commerce Technology and Development ; 4 ; INFORMATION
+INFO47721 ; Computer Security ; 4 ; INFORMATION
+INFO49402 ; ISS Graduation Project (Phase 2) ; 6 ; INFORMATION
+MATH10001 ; Mathematics for Computing ; 3 ; MATH
+MATH10025 ; Mathematics for Computing ; 3 ; MATH
+MATH11044 ; Linear Algebra ; 3 ; MATH
+MATH14998 ; Computer Math 1 ; 4 ; MATH
+MATH24178 ; Computer Math 2 ; 4 ; MATH
+MATH24376 ; Applied Calculus ; 3 ; MATH
+MATH26367 ; Statistical Methods ; 3 ; MATH
+MATH26507 ; Discrete Math ; 3 ; MATH
+MATH32668 ; Statistics - Computer Science ; 3 ; MATH
+MATH36206 ; Advanced Cryptology ; 4 ; MATH
+PROG10004 ; Programming Principles ; 6 ; PROGRAMMING
+PROG10065 ; Interactive Application Development ; 6 ; PROGRAMMING
+PROG10082 ; Object-Oriented Programming 1 - Java ; 6 ; PROGRAMMING
+PROG12974 ; Intro to Programming ; 6 ; PROGRAMMING
+PROG20799 ; Data Structures and Algorithm Development - C ; 6 ; PROGRAMMING
+PROG23199 ; Object-Oriented Programming 1 ; 4 ; PROGRAMMING
+PROG24178 ; Object-Oriented Programming 2 - Java ; 6 ; PROGRAMMING
+PROG30493 ; 3D Game Programming Foundations (Elective) ; 3 ; PROGRAMMING
+PROG31632 ; Mobile iOS Application Development (Elective) ; 4 ; PROGRAMMING
+PROG32758 ; Enterprise Java Development ; 6 ; PROGRAMMING
+PROG33921 ; Game Engine Principles (Elective) ; 4 ; PROGRAMMING
+PROG35142 ; Advanced .NET Server Development ; 6 ; PROGRAMMING
+PROG36859 ; Advanced Object-Oriented Programming ; 6 ; PROGRAMMING
+PROG37198 ; Game Engineering (Elective) ; 3 ; PROGRAMMING
+PROG37721 ; Web Services using .NET & C# Programming ; 6 ; PROGRAMMING
+PROG38263 ; Secure Software Development ; 4 ; PROGRAMMING
+PROG38448 ; Mobile Java Application Development (Option 1) ; 3 ; PROGRAMMING
+PROG38634 ; 3D Game Development (Elective) ; 3 ; PROGRAMMING
+PROG39207 ; Network & Server Side Development ; 6 ; PROGRAMMING
+PROG39402 ; Advanced Mobile Application Development (Elective) ; 3 ; PROGRAMMING
+PROG40000 ; UNIX Systems Programming ; 3 ; PROGRAMMING
+PROG43431 ; Multi-Tier Programming 1 ; 3 ; PROGRAMMING
+PROG44579 ; Multi-Tier Programming 2 ; 3 ; PROGRAMMING
+PROG47721 ; Algorithms and Data Structures ; 6 ; PROGRAMMING
+SYST10049 ; Web Development 1 ; 3 ; SYSTEM
+SYST10082 ; Operating Systems Fundamentals ; 3 ; SYSTEM
+SYST10199 ; Web Development 2 ; 3 ; SYSTEM
+SYST13416 ; Linux/Unix Operating Systems ; 3 ; SYSTEM
+SYST16529 ; Introduction to Business Software Systems ; 3 ; SYSTEM
+SYST18713 ; Intro to Unix Operating Systems ; 3 ; SYSTEM
+SYST20261 ; Applied Operating Systems Design ; 3 ; SYSTEM
+SYST23551 ; Windows Server Administration ; 3 ; SYSTEM
+SYST24444 ; Mobile Web-based Application Development ; 3 ; SYSTEM
+SYST26671 ; Computer Architecture ; 3 ; SYSTEM
+SYST28263 ; Structured Computer Organization ; 3 ; SYSTEM
+SYST28296 ; Linux/Unix Admin ; 3 ; SYSTEM
+SYST28515 ; Systems Analysis and Design ; 3 ; SYSTEM
+SYST30009 ; Engineering Quality Software ; 3 ; SYSTEM
+SYST33796 ; Wireless Systems (Elective) ; 3 ; SYSTEM
+SYST37028 ; Software Engineering QA and Testing ; 3 ; SYSTEM
+SYST39207 ; Operating Systems Design ; 3 ; SYSTEM
+SYST39409 ; Object Oriented Methodologies - UML ; 3 ; SYSTEM
+SYST44998 ; Wireless Security ; 4 ; SYSTEM
+TEST00001 ; Just Test Data ; 100 ; SYSTEM

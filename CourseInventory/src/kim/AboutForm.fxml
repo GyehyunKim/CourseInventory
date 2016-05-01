@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="root" prefHeight="173.0" prefWidth="434.0" stylesheets="@styleAbout.css" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="kim.AboutFormController">
+   <children>
+      <ImageView fx:id="ivSheridan" fitHeight="140.0" fitWidth="93.0" layoutX="22.0" layoutY="21.0" pickOnBounds="true" preserveRatio="true" />
+      <Button fx:id="btClose" layoutX="241.0" layoutY="121.0" mnemonicParsing="false" onAction="#handleClose" prefHeight="23.0" prefWidth="117.0" text="Close" />
+      <Label layoutX="193.0" layoutY="41.0" text="Sheridan Course Inventory v1.0&#10;&#10;Copyright 2016. Gyehyun Kim" textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
